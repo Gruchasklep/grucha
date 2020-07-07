@@ -713,6 +713,7 @@
 									
 								</div>
 								<p>Jeśli masz pytanie pisz, na każdę odpowiem! </p>
+								<p>e-mail: kontakt.grucha@gmail.com </p>
 
 								<div class="widget_socail m-top-30">
 									<ul class="list-inline-item">
