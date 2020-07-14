@@ -1,0 +1,12 @@
+body
+{
+margin: 0;
+padding: 0;
+display: flex;
+justify-content: center;
+align-itmes: center;
+min-height: 100vh;
+}
+div
+{
+padding: 5vw;
