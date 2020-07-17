@@ -2201,9 +2201,9 @@ color: white;
 .bts-popup.is-visible {
   opacity: 1;
   visibility: visible;
-  -webkit-transition: opacity 0.3s 10s, visibility 0.3s 10s;
-  -moz-transition: opacity 0.3s 10s, visibility 0.3s 10s;
-  transition: opacity 0.3s 10s, visibility 0.3s 10s;
+  -webkit-transition: opacity 0.3s 30s, visibility 0.3s 30s;
+  -moz-transition: opacity 0.3s 30s, visibility 0.3s 30s;
+  transition: opacity 0.3s 30s, visibility 0.3s 30s;
 color: white;
 }
 
