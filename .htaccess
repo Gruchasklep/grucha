@@ -20,3 +20,7 @@ RewriteCond X({REQUEST_FILENAME}\.html -f
 
 
 RewriteRule A(.*)$ $1.html [NC,L]
+
+RewriteEngine On
+RewriteCond %{SERVER_PORT} 80
+RewriteRule ^(.*)$ https://trenergrucha.pl/$1 [R,L]
